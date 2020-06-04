@@ -10,14 +10,13 @@ public class Ex
         System.out.println("Input the 3 numbers : ");  
          
 	}
-		for (i=0;i<3;i++)
-		{
-		    Scanner in = new Scanner(System.in);
-		    n = in.nextInt();
-		    
-  		s +=n;
-	}
+        for (i=0;i<3;i++)
+        {
+	    Scanner in = new Scanner(System.in);
+	    n = in.nextInt();
+	    s +=n;
+        }
 	avg=s/3;
 	System.out.println("The sum of 3 no is : " +s+"\nThe Average is : " +avg);
-}
+  }
 }
