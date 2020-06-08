@@ -34,9 +34,7 @@ class GFG
 	} 
 	public static void main(String[] args) 
 	{ 
-		int mat[][] = {{ 2, 7, 6 }, 
-					{ 9, 5, 1 }, 
-					{ 4, 3, 8 }}; 
+		int mat[][] = {{ 2, 7, 6 }, { 9, 5, 1 }, { 4, 3, 8 }}; 
 
 		if (isMagicSquare(mat)) 
 			System.out.println("Magic Square"); 
