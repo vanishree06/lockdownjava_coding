@@ -1,3 +1,4 @@
+import java.util.*;
 public class LongestRepeatingSequence 
 {   
     public static String lcp(String s, String t)
