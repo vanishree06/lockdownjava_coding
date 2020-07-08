@@ -1,4 +1,4 @@
-Arrays;  
+import java. util. Arrays;  
    
 public class AnagramString {  
     static void isAnagram(String str1, String str2) {  
