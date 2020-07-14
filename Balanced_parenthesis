@@ -1,5 +1,3 @@
-// Java program for checking 
-// balanced Parenthesis 
 import java.util.*; 
 
 public class BalancedParan
